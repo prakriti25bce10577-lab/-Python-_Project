@@ -1,4 +1,4 @@
-# -Python-_Project
+# Python-_Project
 This is my first python project
 # Number Guessing Game 🎮
 
